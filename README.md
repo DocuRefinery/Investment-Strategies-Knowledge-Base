@@ -7,9 +7,6 @@
 
 Global financial intelligence framework featuring 30+ AI-driven strategies in 16 languages. A deterministic, multi-model analysis mirror for 5,000+ symbols.
 
-*(Görsel için yer tutucu: Buraya GitHub reponuza yükleyeceğiniz uygulamanın bitmiş bir rapor ekran görüntüsünün linkini koymalısınız. Şimdilik metni görselleştirmesi için boş bırakıyorum)*
-<!-- ![DocuRefinery Terminal Interface](assets/screenshot.png) -->
-
 This repository is a public mirror of the core logic and AI tasks running on [DocuRefinery.com](https://docurefinery.com). 
 
 We built DocuRefinery to let anyone run complex financial analysis without dealing with prompt engineering or worrying about AI hallucinations. The models are firmly constrained by professional market rules, parsing real SEC filings and market data rather than guessing.
