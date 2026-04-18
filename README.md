@@ -7,7 +7,7 @@
 
 Global financial intelligence framework featuring 30+ AI-driven strategies in 16 languages. A deterministic, multi-model analysis mirror for 5,000+ symbols.
 
-This repository is a public mirror of the core logic and AI tasks running on [DocuRefinery.com](https://docurefinery.com). 
+This repository is a public mirror of the core logic and AI tasks running on [DocuRefinery.com]. 
 
 We built DocuRefinery to let anyone run complex financial analysis without dealing with prompt engineering or worrying about AI hallucinations. The models are firmly constrained by professional market rules, parsing real SEC filings and market data rather than guessing.
 
@@ -30,7 +30,7 @@ One of the most critical aspects of our framework is eliminating AI hallucinatio
 
 You don't need to write prompts or configure API keys to run these strategies. The execution pipeline is narrowed down to three immediate steps:
 
-1. **Visit [DocuRefinery.com](https://docurefinery.com)**.
+1. **Visit [DocuRefinery.com]**.
 2. **Select your strategy** from the left navigation menu (e.g., *Insider Trading*, *Earnings Preview*).
 3. **Enter a ticker symbol** (e.g., AAPL, NVDA) and instantly receive a deterministic, institutional-grade AI report for that asset.
 
@@ -38,4 +38,4 @@ You don't need to write prompts or configure API keys to run these strategies. T
 
 This repository tracks the documentation and operational logic for all 30 strategies across 16 different languages. Having a public blueprint provides full transparency into how DocuRefinery structurally evaluates qualitative and quantitative market data.
 
-You can access the live platform and test these strategies against thousands of equities directly at [DocuRefinery.com](https://docurefinery.com).
+You can access the live platform and test these strategies against thousands of equities directly at [DocuRefinery.com].
